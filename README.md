@@ -2,4 +2,4 @@ I am SkyRainWind, an undergraduate now majoring in computer science from Harbin 
 
 I used to be involved in Competitive Programming Contest as a contestant and awarded gold medals in both ICPC and CCPC.
 
-Currently I am interested in reinforcement learning and multi-modal embodied AI. More information could be found in [my blog](skyrainwind.github.io).
+Currently I am interested in reinforcement learning and multi-modal embodied AI. More information could be found in [my blog](https://skyrainwind.github.io/).
